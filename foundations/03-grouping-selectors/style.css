@@ -1,0 +1,14 @@
+.meone {
+    background-color: black;
+    color: white;
+}
+
+.metwo {
+    background-color: yellow;
+    color: black;
+}
+.metwo,
+.meone {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
